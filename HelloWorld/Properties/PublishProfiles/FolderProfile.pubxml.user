@@ -85,10 +85,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/28/2019 09:04:07</publishTime>
     </File>
     <File Include="bin/HelloWorld.dll">
-      <publishTime>05/28/2019 09:06:21</publishTime>
+      <publishTime>05/28/2019 11:37:26</publishTime>
     </File>
     <File Include="bin/HelloWorld.pdb">
-      <publishTime>05/28/2019 09:06:21</publishTime>
+      <publishTime>05/28/2019 11:37:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
       <publishTime>05/28/2019 09:04:07</publishTime>
